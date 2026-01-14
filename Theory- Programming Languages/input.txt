@@ -1,0 +1,3 @@
+Variable equal-op ( Number add-op Number )
+Number equal-op ( Variable add-op Number )
+Number mult-op Number equal-op Number
